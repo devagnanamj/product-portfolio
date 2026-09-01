@@ -1,6 +1,6 @@
 **Product Case Study - Purview Product Health Transformation**
 
-**Overview**
+**Overview: **
 Led cross-functional initiatives focused on improving product health, reducing customer escalations, and creating actionable insights for engineering and support teams.
 
 **Problem:** The product faced recurring customer pain points.
