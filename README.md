@@ -82,7 +82,7 @@ Evolving reporting from Power BI and Microsoft Fabric dashboards into an API-fir
 - Reporting Strategy
 - Platform Extensibility
 
-➡️ ./case-study-04-purview-advanced-reporting/
+➡️ [./case-study-04-purview-advanced-reporting/](https://github.com/devagnanamj/product-portfolio/tree/main/case-study-04-purview-advanced-reporting)
 
 ---
 
@@ -98,7 +98,7 @@ Combining proactive observability, operational analytics, agentic AI, incident i
 - Product Health
 - Operational Decision Support
 
-➡️ ./case-study-05-aipowered-observabilitysystem-proactiveincident-intelligence-analytics/
+➡️ [./case-study-05-aipowered-observabilitysystem-proactiveincident-intelligence-analytics/](https://github.com/devagnanamj/product-portfolio/tree/main/case-study-05-aipowered-observabilitysystem-proactiveincident-intelligence-analytics)
 
 ---
 
@@ -165,10 +165,10 @@ I enjoy building products at the intersection of:
 - AI
 - Security
 - Compliance
-- Developer Platforms
+- Developer Platforms (API, SDK)
 - Analytics
 - Data Platforms
-- Observability
-- Customer Experience
+- Observability & Diagnostics systems
+- Improve Customer Experience, work with cSuite Executives & high value deals
 
 My focus is helping teams translate complex customer and business problems into scalable products, measurable outcomes, and sustainable growth.
