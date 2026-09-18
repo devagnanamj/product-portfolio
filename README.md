@@ -66,7 +66,7 @@ Transforming telemetry and usage signals into KPIs, executive scorecards, decisi
 - Telemetry
 - Data-Driven Decisions
 
-➡️ ./case-study-03-product-analytics/
+➡️ [./case-study-03-product-analytics/](https://github.com/devagnanamj/product-portfolio/tree/main/case-study-03-product-analytics)
 
 ---
 
