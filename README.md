@@ -34,7 +34,7 @@ Connecting telemetry, customer signals, adoption insights, and operational intel
 - Customer Insights
 - Operational Intelligence
 
-➡️ ./case-study-01-purview-health/
+➡️ https://github.com/devagnanamj/product-portfolio/tree/main/case-study-01-purview-health/
 
 ---
 
