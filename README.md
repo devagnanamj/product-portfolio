@@ -34,7 +34,7 @@ Connecting telemetry, customer signals, adoption insights, and operational intel
 - Customer Insights
 - Operational Intelligence
 
-➡️ https://github.com/devagnanamj/product-portfolio/tree/main/case-study-01-purview-health/
+➡️ [./case-study-01-purview-health/](https://github.com/devagnanamj/product-portfolio/tree/main/case-study-01-purview-health/)
 
 ---
 
@@ -50,7 +50,7 @@ Building readiness, supportability, adoption, and operational models for enterpr
 - Customer Experience
 - Supportability
 
-➡️ ./case-study-02-security-copilot/
+➡️ [./case-study-02-security-copilot/](https://github.com/devagnanamj/product-portfolio/tree/main/case-study-02-security-copilot)
 
 ---
 
