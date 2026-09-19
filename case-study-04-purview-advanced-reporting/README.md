@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-As a Senior Product Manager working across enterprise security, compliance, analytics, and developer platforms, I shaped an advanced reporting solution that transformed fragmented compliance data into actionable insights.
+As a Product Management Leader working across enterprise security, compliance, analytics, and developer platforms, I shaped an advanced reporting solution that transformed fragmented compliance data into actionable insights.
 
 The initiative began as a Power BI and Microsoft Fabric-based reporting experience. It provided centralized data processing, reusable analytical models, interactive dashboards, and executive-level reporting.
 
@@ -86,7 +86,7 @@ Standard reports could address common scenarios, but more advanced organizations
 
 ## My Role
 
-As the **Senior Product Manager**, I shaped the reporting vision, customer scenarios, product requirements, analytical experience, and evolution toward platform-based data access.
+As the **Product Management Leader**, I shaped the reporting vision, customer scenarios, product requirements, analytical experience, and evolution toward platform-based data access.
 
 ### Responsibilities
 
