@@ -24,7 +24,26 @@ I established an analytics operating model spanning KPI definition, telemetry re
 | **Technology Context** | Kusto/ADX, Microsoft Fabric, Power BI, semantic models, telemetry, and automation |
 | **Key Outputs** | KPI framework, data model, executive scorecards, operational dashboards, and review mechanisms |
 
-> **Portfolio note:** This case study describes the product-management approach and outcomes at a high level. Internal names, customer information, incident details, proprietary metrics, confidential URLs, and unreleased product information have been excluded.
+## Disclaimer
+
+This case study is a portfolio representation of product leadership, strategy, program management, and technology concepts. The content is intentionally anonymized and generalized to protect confidentiality and privacy.
+
+- No customer-specific information is included.
+- No proprietary, confidential, or non-public information is disclosed.
+- No personally identifiable information (PII) is included.
+- Product names, user journeys, architectures, workflows, metrics, and implementation details may be simplified, modified, or represented at a conceptual level.
+- Technologies, tools, and platforms referenced are illustrative of the solution approach and do not necessarily represent the exact implementation.
+- Any metrics, outcomes, KPIs, OKRs, adoption figures, operational improvements, or business impacts are representative examples intended to demonstrate product thinking and measurement frameworks.
+- This document focuses on product strategy, customer experience, AI, data, security, compliance, and platform design concepts rather than historical implementation specifics.
+- The purpose of this case study is to demonstrate product management skills, strategic thinking, technical depth, leadership approach, and problem-solving methodologies in a professional portfolio context.
+
+## Copyright
+
+© 2026 Devagnanam Jayaseelan. All rights reserved.
+
+The content, structure, workflows, product strategies, diagrams, narratives, frameworks, and case studies contained in this portfolio are the intellectual property of the author.
+No part of this portfolio may be reproduced, redistributed, republished, or presented as original work without prior written permission.
+
 
 ---
 
@@ -48,7 +67,7 @@ The core problem was therefore not a lack of data. It was the absence of a unifi
 
 ## My Role
 
-As the **Senior Product Manager**, I owned the product strategy and operating model for analytics-driven decision-making.
+As the **Product Management Leader**, I owned the product strategy and operating model for analytics-driven decision-making.
 
 ### My Responsibilities
 
