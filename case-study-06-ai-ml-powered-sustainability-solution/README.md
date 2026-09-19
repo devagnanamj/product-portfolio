@@ -30,6 +30,16 @@ The content is intentionally anonymized and generalized to protect confidentiali
 
 The purpose of this case study is to demonstrate product management skills, strategic thinking, technical depth, leadership approach, and problem-solving methodologies in a professional portfolio context.
 
+## Copyright
+
+© 2026 Devagnanam Jayaseelan.
+
+All rights reserved.
+
+The content, structure, workflows, product strategies, diagrams, narratives, frameworks, and case studies contained in this portfolio are the intellectual property of the author.
+
+No part of this portfolio may be reproduced, redistributed, republished, or presented as original work without prior written permission.
+
 ---
 
 ## Table of Contents
