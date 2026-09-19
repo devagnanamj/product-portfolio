@@ -24,6 +24,49 @@ Environmental monitoring programs faced several challenges:
 These constraints limited scale, operational efficiency, and long-term sustainability outcomes.
 
 ---
+┌─────────────────────────────────────────────────────────────┐
+│                    Environmental Sources                    │
+│       Fixed Cameras | Drones | Vessel Cameras | Images      │
+└─────────────────────────────┬───────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                 Data Ingestion and Storage                  │
+│       Image Upload | Metadata | Validation | Data Lake      │
+└─────────────────────────────┬───────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                   Data Preparation Layer                    │
+│   Labeling | Normalization | Quality Checks | Versioning    │
+└─────────────────────────────┬───────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                       AI and ML Layer                       │
+│  Object Detection | Classification | Confidence Scoring    │
+│           Model Evaluation | Error Analysis                │
+└─────────────────────────────┬───────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                 Intelligence and API Layer                  │
+│   Detection Results | Aggregations | APIs | Event Signals   │
+└─────────────────────────────┬───────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                     Experience Layer                        │
+│ Dashboards | Analyst Review | Reports | Operational Views   │
+└─────────────────────────────┬───────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                  Governance and Operations                  │
+│ Access Control | Audit | Monitoring | Model Governance      │
+└─────────────────────────────────────────────────────────────┘
+
+
 
 ## 🚀 Product Strategy
 
