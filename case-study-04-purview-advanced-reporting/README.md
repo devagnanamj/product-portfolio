@@ -17,7 +17,27 @@ This evolution created two complementary experiences:
 
 The product strategy moved advanced reporting from a standalone visualization solution toward a reusable data platform that could improve product adoption, ecosystem value, and commercial differentiation.
 
-> **Portfolio note:** This case study presents a sanitized product-management narrative. It contains no customer-identifying information, personal information, tenant details, internal system names, incident identifiers, proprietary metrics, organizational information, internal URLs, or confidential roadmap details.
+## Disclaimer
+
+This case study is a portfolio representation of product leadership, strategy, program management, and technology concepts. The content is intentionally anonymized and generalized to protect confidentiality and privacy.
+
+- No customer-specific information is included.
+- No proprietary, confidential, or non-public information is disclosed.
+- No personally identifiable information (PII) is included.
+- Product names, user journeys, architectures, workflows, metrics, and implementation details may be simplified, modified, or represented at a conceptual level.
+- Technologies, tools, and platforms referenced are illustrative of the solution approach and do not necessarily represent the exact implementation.
+- Any metrics, outcomes, KPIs, OKRs, adoption figures, operational improvements, or business impacts are representative examples intended to demonstrate product thinking and measurement frameworks.
+- This document focuses on product strategy, customer experience, AI, data, security, compliance, and platform design concepts rather than historical implementation specifics.
+- The purpose of this case study is to demonstrate product management skills, strategic thinking, technical depth, leadership approach, and problem-solving methodologies in a professional portfolio context.
+
+## Copyright
+
+© 2026 Devagnanam Jayaseelan. All rights reserved.
+
+The content, structure, workflows, product strategies, diagrams, narratives, frameworks, and case studies contained in this portfolio are the intellectual property of the author.
+No part of this portfolio may be reproduced, redistributed, republished, or presented as original work without prior written permission.
+
+
 
 ---
 
