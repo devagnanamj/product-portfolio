@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-As a Senior Product Manager within Microsoft Security, I led cross-functional initiatives to strengthen the product readiness, supportability, and customer experience of Microsoft Security Copilot.
+As a Product Leader within Microsoft Security, I led cross-functional initiatives to strengthen the product readiness, supportability, and customer experience of Microsoft Security Copilot.
 
 Security Copilot brings generative AI into enterprise security workflows across multiple Microsoft security products. Scaling an AI-powered security platform requires more than shipping product capabilities. It also requires clear operational ownership, reliable escalation paths, actionable customer insights, engineering readiness, and continuous measurement.
 
@@ -23,7 +23,26 @@ I helped establish a scalable operating model that connected customer and suppor
 | **Product Context** | Enterprise AI security platform with embedded and cross-product experiences |
 | **Key Outputs** | Operating model, escalation framework, readiness reviews, customer-signal analysis, and executive reporting |
 
-> **Portfolio note:** This case study presents the product-management approach at a high level. Confidential information, customer-identifying details, internal system names, proprietary metrics, and unreleased product information have been excluded.
+ ## Disclaimer
+
+This case study is a portfolio representation of product leadership, strategy, program management, and technology concepts. The content is intentionally anonymized and generalized to protect confidentiality and privacy.
+
+- No customer-specific information is included.
+- No proprietary, confidential, or non-public information is disclosed.
+- No personally identifiable information (PII) is included.
+- Product names, user journeys, architectures, workflows, metrics, and implementation details may be simplified, modified, or represented at a conceptual level.
+- Technologies, tools, and platforms referenced are illustrative of the solution approach and do not necessarily represent the exact implementation.
+- Any metrics, outcomes, KPIs, OKRs, adoption figures, operational improvements, or business impacts are representative examples intended to demonstrate product thinking and measurement frameworks.
+- This document focuses on product strategy, customer experience, AI, data, security, compliance, and platform design concepts rather than historical implementation specifics.
+- The purpose of this case study is to demonstrate product management skills, strategic thinking, technical depth, leadership approach, and problem-solving methodologies in a professional portfolio context.
+
+## Copyright
+
+© 2026 Devagnanam Jayaseelan. All rights reserved.
+
+The content, structure, workflows, product strategies, diagrams, narratives, frameworks, and case studies contained in this portfolio are the intellectual property of the author.
+No part of this portfolio may be reproduced, redistributed, republished, or presented as original work without prior written permission.
+
 
 ---
 
@@ -73,7 +92,7 @@ Growth in product adoption required an operating model that could scale without 
 
 ## My Role
 
-As the **Senior Product Manager**, I helped define and drive the product-readiness and customer-experience operating model.
+As the **Product Leader**, I helped define and drive the product-readiness and customer-experience operating model.
 
 ### My Responsibilities
 
