@@ -8,7 +8,7 @@ As a Product Management Leader working across enterprise AI, security, complianc
 
 Enterprise teams already have logs, metrics, traces, alerts, support signals, and dashboards. However, these signals are often fragmented, making it difficult to detect emerging risks, understand customer impact, investigate incidents, and determine the right action.
 
-The proposed platform connects enterprise telemetry, product-health indicators, operational evidence, and historical knowledge to enable:
+The proposed observability, remediation platform connects enterprise telemetry, product-health indicators, operational evidence, and historical knowledge to enable:
 
 - Proactive health and risk monitoring
 - Early anomaly and degradation detection
