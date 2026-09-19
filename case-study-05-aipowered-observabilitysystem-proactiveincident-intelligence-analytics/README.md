@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-As a Senior Product Manager working across enterprise AI, security, compliance, product health, and operational excellence, I shaped the product concept for an AI-powered observability and incident-intelligence platform.
+As a Product Management Leader working across enterprise AI, security, compliance, product health, and operational excellence, I shaped the product concept for an AI-powered observability and incident-intelligence platform.
 
 Enterprise teams already have logs, metrics, traces, alerts, support signals, and dashboards. However, these signals are often fragmented, making it difficult to detect emerging risks, understand customer impact, investigate incidents, and determine the right action.
 
@@ -20,7 +20,26 @@ The proposed platform connects enterprise telemetry, product-health indicators, 
 
 The goal is to help enterprises move from reactive incident response toward proactive, evidence-based, and continuously improving operations.
 
-> **Portfolio note:** This case study presents a sanitized product concept. It contains no customer-identifying information, personal information, incident identifiers, tenant data, internal system names, proprietary metrics, internal URLs, or confidential roadmap details.
+## Disclaimer
+
+This case study is a portfolio representation of product leadership, strategy, program management, and technology concepts. The content is intentionally anonymized and generalized to protect confidentiality and privacy.
+
+- No customer-specific information is included.
+- No proprietary, confidential, or non-public information is disclosed.
+- No personally identifiable information (PII) is included.
+- Product names, user journeys, architectures, workflows, metrics, and implementation details may be simplified, modified, or represented at a conceptual level.
+- Technologies, tools, and platforms referenced are illustrative of the solution approach and do not necessarily represent the exact implementation.
+- Any metrics, outcomes, KPIs, OKRs, adoption figures, operational improvements, or business impacts are representative examples intended to demonstrate product thinking and measurement frameworks.
+- This document focuses on product strategy, customer experience, AI, data, security, compliance, and platform design concepts rather than historical implementation specifics.
+
+The purpose of this case study is to demonstrate product management skills, strategic thinking, technical depth, leadership approach, and problem-solving methodologies in a professional portfolio context.
+
+## Copyright
+
+© 2026 Devagnanam Jayaseelan. All rights reserved.
+
+The content, structure, workflows, product strategies, diagrams, narratives, frameworks, and case studies contained in this portfolio are the intellectual property of the author.
+No part of this portfolio may be reproduced, redistributed, republished, or presented as original work without prior written permission.
 
 ---
 
@@ -68,7 +87,7 @@ The fundamental challenge is not collecting more data. It is converting fragment
 
 ## My Role
 
-As the **Senior Product Manager**, I shaped the end-to-end product strategy connecting observability, product health, incident intelligence, and operational decision support.
+As the **Product Manager**, I shaped the end-to-end product strategy connecting observability, product health, incident intelligence, and operational decision support.
 
 ### Responsibilities
 
