@@ -4,9 +4,35 @@
 
 ## Executive Summary
 
-As a Senior Product Manager for Microsoft Purview, I led a cross-functional initiative focused on strengthening product health visibility, accelerating issue identification, and reducing recurring customer pain points.
+As a Senior Product Leader for Security & Compliance solution product, I led a cross-functional initiative focused on strengthening product health visibility, accelerating issue identification, and reducing recurring customer pain points.
 
 The initiative connected product telemetry, customer feedback, support signals, and operational insights through a unified product health framework. It helped teams move from reactive issue management toward proactive, data-informed product decisions.
+
+---
+
+## Disclaimer
+
+This case study is an anonymized portfolio representation designed to demonstrate product management, product strategy, customer experience, AI, data, and operational leadership capabilities.
+
+- No customer-specific information is included.
+- No confidential, proprietary, or non-public information is disclosed.
+- No personally identifiable information (PII) is included.
+- Product workflows, architectures, metrics, and implementation details may be simplified, modified, or generalized.
+- Technologies, tools, and approaches are presented conceptually for portfolio purposes and do not necessarily represent exact implementations.
+- Any metrics, outcomes, KPIs, OKRs, adoption figures, operational improvements, or business impacts are illustrative and intended to demonstrate product-thinking frameworks rather than historical records.
+- This case study focuses on product strategy, customer experience, AI, data, platform design, operational excellence, and leadership concepts.
+- The purpose of this document is to showcase problem-solving approaches, product leadership, strategic thinking, and execution methodologies in a professional portfolio context.
+
+---
+
+## Copyright
+
+© 2026 Devagnanam Jayaseelan. All rights reserved.
+
+This portfolio, including its content, structure, workflows, diagrams, narratives, frameworks, and case studies, is the intellectual property of the author.
+This material is provided solely for professional evaluation, networking, interview, and career-discussion purposes.
+No part of this portfolio may be reproduced, redistributed, republished, modified, translated, stored in a retrieval system, or presented as original work without prior written permission of the author.
+Unauthorized use, copying, or misrepresentation of this content is prohibited.
 
 ---
 
@@ -15,7 +41,7 @@ The initiative connected product telemetry, customer feedback, support signals, 
 | Area | Details |
 |---|---|
 | **Product** | Microsoft Purview |
-| **Role** | Senior Product Manager |
+| **Role** | Senior Product Leader |
 | **Focus** | Product health, customer experience, analytics, and operational excellence |
 | **Partners** | Engineering, Support, Customer Success, Service Engineering, and Product Leadership |
 | **Primary Users** | Product teams, engineering leaders, support teams, and business stakeholders |
@@ -44,7 +70,7 @@ These challenges increased support effort, delayed issue resolution, and made it
 
 ## My Role
 
-As the **Senior Product Manager**, I owned the product-health strategy and coordinated execution across engineering, support, customer success, service engineering, and product leadership.
+As the **Senior Product Leader**, I owned the product-health strategy and coordinated execution across engineering, support, customer success, service engineering, and product leadership.
 
 ### My Responsibilities
 
