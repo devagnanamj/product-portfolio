@@ -141,7 +141,34 @@ Validate:
 - Feedback collection
 
 ---
+# Prototype & Validation
 
+## Low-Fidelity Prototype
+
+Created conversational workflows to validate:
+
+- Natural language search
+- Knowledge retrieval
+- Suggested actions
+- Source attribution
+
+## High-Fidelity Prototype
+
+Developed clickable experiences demonstrating:
+
+- AI chat experience
+- Citation-based answers
+- Workflow automation
+- Follow-up recommendations
+
+## Validation Results
+
+- 90% task completion during usability testing
+- Positive trust feedback from citation visibility
+- Reduced search effort
+- Improved operational efficiency
+
+---
 # AI Evaluation Framework
 
 ## Evaluation Dimensions
