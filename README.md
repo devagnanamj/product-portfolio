@@ -2,7 +2,7 @@
 
 ## Product Leadership Portfolio
 
-**Multi-Product Strategy | Enterprise AI | Security & Compliance | Identity | Analytics | Customer Experience**
+**Multi-Product Strategy | Enterprise AI, LLM/SLM | Data Engineering & Analytics | Security & Compliance | Entra & Devices | Customer Experience**
 
 Senior Product Management Leader with experience shaping products and transformation initiatives across enterprise AI, security, compliance, identity, analytics, data platforms, developer ecosystems, digital health, sustainability, aviation, and financial services.
 
@@ -43,6 +43,11 @@ The case studies demonstrate my approach to:
 | **Aviation** | Identity transformation, mobile workforce solutions, and business continuity |
 | **Financial Services** | Data governance, sensitive-data protection, security, and compliance |
 
+
+In this, cover in-detail about AI, Platform, Data, and Enterprise Transformation:
+- Case Study 10 – Enterprise AI Knowledge Assistant & Agentic Operations Platform
+- Case Study 05 – AI-Powered Enterprise Observability & Incident Intelligence
+- Case Study 02 – Copilot Product Readiness, Customer Experience & Product-Led Growth
 ---
 
 # Product Leadership Case Studies
