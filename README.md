@@ -279,20 +279,19 @@ Aligning product, engineering, design, data science, security, support, operatio
 # Repository Structure
 
 ```text
-product-portfolio/
+product-portfolio
 │
-├── case-study-01-purview-health/
-├── case-study-02-security-copilot/
-├── case-study-03-product-analytics/
-├── case-study-04-purview-advanced-reporting/
-├── case-study-05-aipowered-observabilitysystem-proactiveincident-intelligence-analytics/
-├── case-study-06-environmental-intelligence-platform/
-├── case-study-07-digital-health-monitoring-platform/
-├── case-study-08-aviation-identity-zero-trust-transformation/
-├── case-study-09-financial-data-protection-ai-governance/
-│
-├── images/
-├── documents/
+├── case-study-01-purview-health
+├── case-study-02-security-copilot
+├── case-study-03-product-analytics
+├── case-study-04-purview-advanced-reporting
+├── case-study-05-aipowered-observabilitysystem-proactiveincident-intelligence-analytics
+├── case-study-06-environmental-intelligence-platform
+├── case-study-07-digital-health-monitoring-platform
+├── case-study-08-aviation-identity-transformation
+├── case-study-09-fintech-security-compliance
+├── case-study-10-enterprise-ai-knowledge-assistant
+│   └── README.md
 └── README.md
 ```
 
