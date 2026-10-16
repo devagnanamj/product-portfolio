@@ -1,4 +1,4 @@
-<img width="4032" height="2158" alt="image" src="https://github.com/user-attachments/assets/f437019a-8db8-4984-ae6e-e11edd798f9c" /># Devagnanam Jayaseelan
+# Devagnanam Jayaseelan
 
 ## Product Leadership Portfolio
 
