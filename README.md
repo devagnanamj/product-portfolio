@@ -1,4 +1,4 @@
-# Devagnanam Jayaseelan
+<img width="4032" height="2158" alt="image" src="https://github.com/user-attachments/assets/f437019a-8db8-4984-ae6e-e11edd798f9c" /># Devagnanam Jayaseelan
 
 ## Product Leadership Portfolio
 
@@ -191,6 +191,25 @@ Establishing a connected security and compliance strategy across identity, data 
 
 ---
 
+## 10. Enterprise AI Knowledge Assistant & Agentic Operations Platform
+
+Designing a trusted enterprise AI assistant that combines Retrieval-Augmented Generation (RAG), agentic workflows, enterprise knowledge discovery, AI evaluation frameworks, and Responsible AI governance to improve productivity, decision quality, and operational efficiency.
+
+**Key Themes**
+
+* Generative AI
+* Agentic AI
+* Retrieval-Augmented Generation (RAG)
+* AI Evaluation & Experimentation
+* Responsible AI
+* Enterprise Knowledge Management
+* Workflow Automation
+* Product Analytics
+
+➡️ ./case-study-10-enterprise-ai-knowledge-assistant/
+
+---
+
 # Portfolio Themes
 
 ## AI-First Product Strategy
@@ -232,7 +251,7 @@ Aligning product, engineering, design, data science, security, support, operatio
 | Domain | Experience |
 |---|---|
 | **Product Strategy** | Vision, scenarios, multi-phase planning, prioritization, and investment decisions |
-| **AI & Agentic Systems** | LLMs, Copilot, RAG, AI evaluation, computer vision, and Responsible AI |
+| **Agentic AI & GenAI** | RAG, AI Assistants, CoPilot, AI Evaluation, Prompt Engineering, Computer Vision, LLM, SLM, Agentic Workflows, Evaluation Frameworks, Prototypes and Responsible AI |
 | **Analytics & Data** | Product analytics, telemetry, Power BI, Microsoft Fabric, KPIs, and OKRs |
 | **Security & Compliance** | Information governance, DLP, data lifecycle, auditing, risk, and AI governance |
 | **Identity & Access** | Microsoft Entra, IAM, RBAC, MSAL, customer identity, and Zero Trust |
