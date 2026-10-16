@@ -2,11 +2,11 @@
 
 ## Product Leadership Portfolio
 
-**Multi-Product Strategy | Enterprise AI, LLM/SLM | Data Engineering & Analytics | Security & Compliance | Entra & Devices | Customer Experience**
+**Multi-Product Strategy | Enterprise AI, LLM/SLM | Data & Analytics | Security & Compliance | Entra & Devices | Customer Experience**
 
 Senior Product Management Leader with experience shaping products and transformation initiatives across enterprise AI, security, compliance, identity, analytics, data platforms, developer ecosystems, digital health, sustainability, aviation, and financial services.
 
-This portfolio presents nine anonymized product leadership case studies spanning multiple products, industries, customer segments, platforms, and business scenarios.
+This portfolio presents ten anonymized product leadership case studies spanning multiple products, industries, customer segments, platforms, and business scenarios.
 
 The case studies demonstrate my approach to:
 
