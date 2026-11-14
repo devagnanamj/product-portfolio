@@ -1,6 +1,6 @@
 # Devagnanam Jayaseelan
 
-## Head of Product Management | Enterprise AI, Security, Data & Platform Transformation
+## Product Management Leader | Enterprise AI, Security, Data & Platform Transformation
 
 Product leader with 20+ years of experience defining strategy, driving execution, and scaling enterprise products across Artificial Intelligence, Security & Compliance, Identity & Access Management, Data Platforms, Analytics, Developer Experiences, and Digital Transformation.
 
@@ -21,6 +21,17 @@ My experience spans enterprise-scale software platforms, AI-powered experiences,
 ### Areas of Expertise
 
 Enterprise AI • Agentic Systems • Copilot Experiences • Product Strategy • Product Analytics • Platform Products • Security & Compliance • Microsoft Entra • Identity & Access Management • Data Platforms • Product-Led Growth • Customer Experience • Enterprise Transformation • Observability • Decision Intelligence • Executive Stakeholder Management
+
+## Featured Strategic Initiatives
+
+### Enterprise AI Knowledge Assistant & Agentic Operations Platform
+Building AI-powered enterprise knowledge discovery, workflow orchestration, operational intelligence, and agent-driven productivity experiences.
+
+### AI-Powered Enterprise Observability & Incident Intelligence
+Transforming reactive operational monitoring into proactive intelligence-driven service management through AI-powered diagnostics, insights, and decision support.
+
+### Copilot Product Readiness, Customer Experience & Product-Led Growth
+Driving enterprise AI adoption through readiness frameworks, customer experience optimization, governance models, and scalable operating practices.
 
 ## Strategic Impact Snapshot
 
@@ -66,18 +77,6 @@ In this, cover in-detail about AI, Platform, Data, and Enterprise Transformation
 - Case Study 10 – Enterprise AI Knowledge Assistant & Agentic Operations Platform
 - Case Study 05 – AI-Powered Enterprise Observability & Incident Intelligence
 - Case Study 02 – Copilot Product Readiness, Customer Experience & Product-Led Growth
----
-## Featured Strategic Initiatives
-
-### Enterprise AI Knowledge Assistant & Agentic Operations Platform
-Building AI-powered enterprise knowledge discovery, workflow orchestration, operational intelligence, and agent-driven productivity experiences.
-
-### AI-Powered Enterprise Observability & Incident Intelligence
-Transforming reactive operational monitoring into proactive intelligence-driven service management through AI-powered diagnostics, insights, and decision support.
-
-### Copilot Product Readiness, Customer Experience & Product-Led Growth
-Driving enterprise AI adoption through readiness frameworks, customer experience optimization, governance models, and scalable operating practices.
-
 ---
 # Product Leadership Case Studies
 
