@@ -1,22 +1,24 @@
 # Devagnanam Jayaseelan
 
-## Product Management Leader | Enterprise AI, Security, Data & Platform Transformation
+## Director of Product Management | Enterprise AI, Security, Data & Platform Transformation
 
-Product leader with 20+ years of experience defining strategy, driving execution, and scaling enterprise products across Artificial Intelligence, Security & Compliance, Identity & Access Management, Data Platforms, Analytics, Developer Experiences, and Digital Transformation.
+Product leader with 20+ years of experience driving strategy, execution, and transformation across Enterprise AI, Security & Compliance, Identity, Data Platforms, Analytics, and Customer Experience.
 
-Throughout my career, I have partnered with engineering, design, data science, operations, customer success, support, and executive leadership teams to transform complex customer and business challenges into scalable product solutions that improve customer outcomes, operational excellence, product adoption, reliability, and business impact.
+This portfolio showcases 10 product leadership case studies spanning AI-powered products, enterprise platforms, security, observability, analytics, digital health, sustainability, aviation, and financial services.
 
-My experience spans enterprise-scale software platforms, AI-powered experiences, security and compliance ecosystems, identity platforms, analytics products, observability systems, digital health solutions, sustainability initiatives, and regulated-industry transformations.
+### Leadership Highlights
 
-### Leadership Impact
+✅ Enterprise AI & Agentic Systems
 
-- Led product strategy and execution across Enterprise AI, Data, Analytics, Security, Compliance, Identity, and Platform products.
-- Influenced roadmap prioritization and investment decisions through product analytics, executive scorecards, telemetry frameworks, and customer insights.
-- Drove AI readiness, adoption, governance, and operational excellence initiatives supporting large-scale enterprise environments.
-- Built decision intelligence frameworks leveraging telemetry, service health, customer signals, operational insights, and business KPIs.
-- Partnered with globally distributed engineering, design, data science, customer success, support, and field organizations to deliver customer-centric product experiences.
-- Delivered platform modernization, API-first architectures, analytics transformations, and ecosystem expansion initiatives.
-- Champion of Responsible AI, Privacy, Security-by-Design, Operational Excellence, and Customer Obsession.
+✅ Security, Compliance & Identity
+
+✅ Data Platforms & Analytics
+
+✅ Platform Strategy & Ecosystems
+
+✅ Customer Experience & Product-Led Growth
+
+✅ Enterprise Transformation
 
 ### Areas of Expertise
 
