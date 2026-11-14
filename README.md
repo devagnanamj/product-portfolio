@@ -1,4 +1,3 @@
-<img width="4004" height="2268" alt="image" src="https://github.com/user-attachments/assets/02383b71-5bbc-4a5b-8b4e-6a6bd994a626" />
 # Devagnanam Jayaseelan
 
 ## Head of Product Management | Enterprise AI, Security, Data & Platform Transformation
