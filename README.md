@@ -1,26 +1,27 @@
+
 # Devagnanam Jayaseelan
 
-## Product Leadership Portfolio
+## Head of Product Management | Enterprise AI, Security, Data & Platform Transformation
 
-**Multi-Product Strategy | Enterprise AI, LLM/SLM | Data & Analytics | Security & Compliance | Entra & Devices | Customer Experience**
+Product leader with 20+ years of experience defining strategy, driving execution, and scaling enterprise products across Artificial Intelligence, Security & Compliance, Identity & Access Management, Data Platforms, Analytics, Developer Experiences, and Digital Transformation.
 
-Senior Product Management Leader with experience shaping products and transformation initiatives across enterprise AI, security, compliance, identity, analytics, data platforms, developer ecosystems, digital health, sustainability, aviation, and financial services.
+Throughout my career, I have partnered with engineering, design, data science, operations, customer success, support, and executive leadership teams to transform complex customer and business challenges into scalable product solutions that improve customer outcomes, operational excellence, product adoption, reliability, and business impact.
 
-This portfolio presents ten anonymized product leadership case studies spanning multiple products, industries, customer segments, platforms, and business scenarios.
+My experience spans enterprise-scale software platforms, AI-powered experiences, security and compliance ecosystems, identity platforms, analytics products, observability systems, digital health solutions, sustainability initiatives, and regulated-industry transformations.
 
-The case studies demonstrate my approach to:
+### Leadership Impact
 
-- Product vision and strategy
-- Customer discovery and experience
-- AI-powered products and Copilot experiences
-- Product analytics and decision intelligence
-- Security, privacy, and compliance
-- Identity and access management
-- Platform and ecosystem strategy
-- Product readiness and product-led growth
-- Application and digital transformation
-- Operational excellence
-- Cross-functional and executive leadership
+- Led product strategy and execution across Enterprise AI, Data, Analytics, Security, Compliance, Identity, and Platform products.
+- Influenced roadmap prioritization and investment decisions through product analytics, executive scorecards, telemetry frameworks, and customer insights.
+- Drove AI readiness, adoption, governance, and operational excellence initiatives supporting large-scale enterprise environments.
+- Built decision intelligence frameworks leveraging telemetry, service health, customer signals, operational insights, and business KPIs.
+- Partnered with globally distributed engineering, design, data science, customer success, support, and field organizations to deliver customer-centric product experiences.
+- Delivered platform modernization, API-first architectures, analytics transformations, and ecosystem expansion initiatives.
+- Champion of Responsible AI, Privacy, Security-by-Design, Operational Excellence, and Customer Obsession.
+
+### Areas of Expertise
+
+Enterprise AI • Agentic Systems • Copilot Experiences • Product Strategy • Product Analytics • Platform Products • Security & Compliance • Microsoft Entra • Identity & Access Management • Data Platforms • Product-Led Growth • Customer Experience • Enterprise Transformation • Observability • Decision Intelligence • Executive Stakeholder Management
 
 > **Portfolio notice:** All case studies have been sanitized for public sharing. They do not contain customer information, personal information, tenant details, internal identifiers, credentials, confidential metrics, internal URLs, organizational details, proprietary screenshots, source code, production configurations, or unreleased roadmap information.
 
