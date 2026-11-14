@@ -67,7 +67,18 @@ In this, cover in-detail about AI, Platform, Data, and Enterprise Transformation
 - Case Study 05 – AI-Powered Enterprise Observability & Incident Intelligence
 - Case Study 02 – Copilot Product Readiness, Customer Experience & Product-Led Growth
 ---
+## Featured Strategic Initiatives
 
+### Enterprise AI Knowledge Assistant & Agentic Operations Platform
+Building AI-powered enterprise knowledge discovery, workflow orchestration, operational intelligence, and agent-driven productivity experiences.
+
+### AI-Powered Enterprise Observability & Incident Intelligence
+Transforming reactive operational monitoring into proactive intelligence-driven service management through AI-powered diagnostics, insights, and decision support.
+
+### Copilot Product Readiness, Customer Experience & Product-Led Growth
+Driving enterprise AI adoption through readiness frameworks, customer experience optimization, governance models, and scalable operating practices.
+
+---
 # Product Leadership Case Studies
 
 ## 01. Purview Product Health Transformation
